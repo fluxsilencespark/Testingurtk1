@@ -1,0 +1,14 @@
+S:\is_x23\app\Calculator\bin\Debug\net8.0\Calculator.exe
+S:\is_x23\app\Calculator\bin\Debug\net8.0\Calculator.deps.json
+S:\is_x23\app\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+S:\is_x23\app\Calculator\bin\Debug\net8.0\Calculator.dll
+S:\is_x23\app\Calculator\bin\Debug\net8.0\Calculator.pdb
+S:\is_x23\app\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+S:\is_x23\app\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+S:\is_x23\app\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+S:\is_x23\app\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+S:\is_x23\app\Calculator\obj\Debug\net8.0\Calculator.dll
+S:\is_x23\app\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+S:\is_x23\app\Calculator\obj\Debug\net8.0\Calculator.pdb
+S:\is_x23\app\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+S:\is_x23\app\Calculator\obj\Debug\net8.0\ref\Calculator.dll
